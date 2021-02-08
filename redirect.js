@@ -1,1 +1,1 @@
-window.location.replace('http://ya.ru');
+document.location.href = 'http://myrusakov.ru';
