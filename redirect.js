@@ -1,1 +1,2 @@
-document.location.href = 'http://myrusakov.ru';
+--123-
+  
